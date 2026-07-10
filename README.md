@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**emilly-alexsandra/emilly-alexsandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td>
+      <img width="150" height="150" alt="mly_gif" src="https://github.com/user-attachments/assets/a84a52cb-4027-4a4f-9899-0adfdd81a0fb" />
+    </td>
+    <td>
+      <h1>Oii, divas! Sou Emilly Alexsandra. 💖</h1>
+      <p>Bem-vindos ao meu perfil!</p>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  
+₊˚ʚ 🌸 ɞ˚₊ ───────────────────────── ₊˚ʚ 🌸 ɞ˚₊ </p>
