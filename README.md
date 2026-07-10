@@ -37,22 +37,22 @@ Bem-vindos(as) ao meu perfil!
 <br><br>
 <p align="center">
   <a>
-    <img src="https://img.shields.io/badge/PYTHON-B27EED?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/PYTHON-DE9DFA?style=for-the-badge&logoColor=white">
   </a>
  <a>
-    <img src="https://img.shields.io/badge/     C     -B27EED?style=for-the-badge&logoColor=white">
+    <img src="https://img.shields.io/badge/     C     -DE9DFA?style=for-the-badge&logoColor=white">
   </a>
 <a>
-   <img src="https://img.shields.io/badge/     R     -B27EED?style=for-the-badge&logoColor=white">
+   <img src="https://img.shields.io/badge/     R     -DE9DFA?style=for-the-badge&logoColor=white">
   </a>
 <a>
-   <img src="https://img.shields.io/badge/MACHINE LEARNING-B27EED?style=for-the-badge&logoColor=white">
+   <img src="https://img.shields.io/badge/MACHINE LEARNING-DE9DFA?style=for-the-badge&logoColor=white">
   </a>
 <a>
-   <img src="https://img.shields.io/badge/PANDAS-B27EED?style=for-the-badge&logoColor=white">
+   <img src="https://img.shields.io/badge/PANDAS-DE9DFA?style=for-the-badge&logoColor=white">
   </a>
 <a>
-   <img src="https://img.shields.io/badge/POWER BI-B27EED?style=for-the-badge&logoColor=white">
+   <img src="https://img.shields.io/badge/POWER BI-DE9DFA?style=for-the-badge&logoColor=white">
   </a>
 
 
