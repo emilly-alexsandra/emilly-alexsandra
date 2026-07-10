@@ -9,7 +9,7 @@ Bem-vindos(as) ao meu perfil!
 
 ✦ 🎓 Estudante de Engenharia Biomédica do 4º período na **UFPE**.
 
-✦ 💻 Interesse em **Desenvolvimento Backend**, **Ciência de Dados** e **Inteligência Artificial** e **Saúde Digital**.
+✦ 💻 Interesse em **Desenvolvimento Python**, **Ciência de Dados** e **Inteligência Artificial** e **Saúde Digital**.
 
 ✦ 📚 Atualmente estudando **Python**, **R** e **Machine Learning**.
 
