@@ -1,18 +1,59 @@
 
-<table>
-  <tr>
-    <td>
-      <img width="150" height="150" alt="mly_gif" src="https://github.com/user-attachments/assets/a84a52cb-4027-4a4f-9899-0adfdd81a0fb" />
-    </td>
-    <td>
-      <h1>Oii, divas! Sou Emilly Alexsandra. 💖</h1>
-      <p>Bem-vindos ao meu perfil!</p>
-    </td>
-  </tr>
-</table>
+<h1>Oii, divas! Sou Emilly Alexsandra. 💖</h1>
 
-<div align="center">
+<img align="right" width="220" src="https://github.com/user-attachments/assets/a84a52cb-4027-4a4f-9899-0adfdd81a0fb" alt="Emily GIF"/>
 
-─────────────────────────────── ✩ ⋆⁺₊⋆ ☽ ⋆⁺₊⋆  ✦  ⋆⁺₊⋆ ☾ ⋆⁺₊⋆ ✩ ───────────────────────────────
 
-</div>
+
+Bem-vindos(as) ao meu perfil!
+
+✦ 🎓 Estudante de Engenharia Biomédica do 4º período na **UFPE**.
+
+✦ 💻 Interesse em **Desenvolvimento Backend**, **Ciência de Dados** e **Inteligência Artificial** e **Saúde Digital**.
+
+✦ 📚 Atualmente estudando **Python**, **R** e **Machine Learning**.
+
+✦ 🌷 Estou sempre em busca de novos desafios, oportunidades de aprendizado e projetos que me permitam evoluir como desenvolvedora.
+
+<br clear="right">
+
+
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-B27EED?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-B27EED?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-B27EED?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p> <br>
+
+────────────────────────────────── ✩ ⋆⁺₊⋆ ☽ ⋆⁺₊⋆  ✦  ⋆⁺₊⋆ ☾ ⋆⁺₊⋆ ✩ ──────────────────────────────────
+<br><br>
+<p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/PYTHON-B27EED?style=for-the-badge&logoColor=white">
+  </a>
+ <a>
+    <img src="https://img.shields.io/badge/     C     -B27EED?style=for-the-badge&logoColor=white">
+  </a>
+<a>
+   <img src="https://img.shields.io/badge/     R     -B27EED?style=for-the-badge&logoColor=white">
+  </a>
+<a>
+   <img src="https://img.shields.io/badge/MACHINE LEARNING-B27EED?style=for-the-badge&logoColor=white">
+  </a>
+<a>
+   <img src="https://img.shields.io/badge/PANDAS-B27EED?style=for-the-badge&logoColor=white">
+  </a>
+<a>
+   <img src="https://img.shields.io/badge/POWER BI-B27EED?style=for-the-badge&logoColor=white">
+  </a>
+
+
+
