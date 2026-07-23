@@ -1,5 +1,5 @@
 
-<h1>Oii, divas! Sou Emilly Alexsandra. 💖</h1>
+<h1>Oii! Sou Emilly Alexsandra. 💖</h1>
 
 <img align="right" width="220" src="https://github.com/user-attachments/assets/a84a52cb-4027-4a4f-9899-0adfdd81a0fb" alt="Emily GIF"/>
 
